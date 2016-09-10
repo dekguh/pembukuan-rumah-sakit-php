@@ -1,1 +1,2 @@
-"# pembukuan-rumah-sakit-php" 
+Aplikasi pembukuan rumah sakit sederhana
+author : kadek teguh mahesa
